@@ -1,4 +1,4 @@
-# Word-Dictionary
+# Word-Lookup-Dictionary
 Suggests the most similar word when an input is misspelled using Levenshtein Edit Distance.
 
 Application works based on the input given by the user. like user can give any english from Dictionary it works like this
